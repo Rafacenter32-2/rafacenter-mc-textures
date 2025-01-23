@@ -1,2 +1,2 @@
 # rafacenter-s-mc-textures
-my mc textures that i put here
+this is where i host my textures
